@@ -1,0 +1,24 @@
+{
+  "name": "food",
+  "version": "0.0.0",
+  "description": "give your apps food, generate user input and cases for your apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stanzheng/food.git"
+  },
+  "keywords": [
+    "food",
+    "yum",
+    "userinput"
+  ],
+  "author": "stanley zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanzheng/food/issues"
+  },
+  "homepage": "https://github.com/stanzheng/food"
+}
